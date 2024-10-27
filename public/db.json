@@ -1,0 +1,58 @@
+[
+    {
+        "img":"/image/sony.jpeg",
+        "title":"Sony Blach Headphones",
+        "mBid":"200",
+        "maxBid":"300",
+        "End":"1days 12hrs 30mins"
+    },
+    {
+        "img":"/image/car.jpg",
+        "title":"Luxury Car",
+        "mBid":"1800",
+        "maxBid":"1500",
+        "End":"0days 12hrs 30mins"
+    },
+    {
+        "img":"/image/speaker.jpg",
+        "title":"Tribit Bluetooth Speaker",
+        "mBid":"10",
+        "maxBid":"30",
+        "End":"1days 12hrs 30mins"
+    },
+    {
+        "img":"/image/ipod.jpg",
+        "title":"Apple Ipod",
+        "mBid":"1200",
+        "maxBid":"3000",
+        "End":"1days 12hrs 30mins"
+    },
+    {
+        "img":"/image/ring.jpg",
+        "title":"women weeding ring",
+        "mBid":"2000",
+        "maxBid":"1000",
+        "End":"1days 12hrs 30mins"
+    },
+    {
+        "img":"/image/mixer.webp",
+        "title":"Mixer",
+        "mBid":"200",
+        "maxBid":"300",
+        "End":"1days 12hrs 30mins"
+    }
+    ,{
+        "img":"/image/tea_pot.jpeg",
+        "title":"Tea pot",
+        "mBid":"20",
+        "maxBid":"10",
+        "End":"1days 12hrs 30mins"
+    },
+    {
+        "img":"/image/waterbootle.jpeg",
+        "title":"Tea pot",
+        "mBid":"20",
+        "maxBid":"10",
+        "End":"1days 12hrs 30mins"
+    }
+]
